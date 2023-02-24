@@ -10,11 +10,13 @@ TEXTO II
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
-Segundo o proprio texto a engenharia se software seria um "cubo" comparado ao "quadrado" da programação, isso quer dizer que a programção é apenas um dos prismas ao qual a engenharia de software deve se atentar, ambas são de grande importancia, mas enquanto a programção se dedica a uma paerte especifica a engenharia de software cuida de tudo com um total.
-
+Segundo o proprio texto a engenharia se software seria um "cubo" comparado ao "quadrado" da programação, isso quer dizer que a programção é apenas um dos prismas ao qual a engenharia de software deve se atentar, ambas são de grande importancia, mas enquanto a programção se dedica a uma paerte especifica a engenharia de software cuida de tudo com um total
 
 - O que é engenharia de software?
 R: A engenharia de software cuida do projeto como um tudo desdo desenvolvimento até a gestão
+
+- Qual a relação com a programação?
+R: Enquanto a programção se dedica a uma paerte especifica a engenharia de software cuida de tudo com um total.
 
 - O que é requisito?
 R: A necessidade do cliente
@@ -27,7 +29,7 @@ R: Requisitos não funcionais explicam as limitações e restrições do sistema
 
 DESAFIO 
 
-Escreva dois exemplos de  requisitos não funcionais
+Escreva dois exemplos de trade-off envolvendo equisitos não funcionais
 
 1- Quanto mais etapas de segurnaça menor será velocidade com que o usuario irá concluir  sua utilização no site
 
