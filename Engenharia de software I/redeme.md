@@ -12,9 +12,23 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 Segundo o proprio texto a engenharia se software seria um "cubo" comparado ao "quadrado" da programação, isso quer dizer que a programção é apenas um dos prismas ao qual a engenharia de software deve se atentar, ambas são de grande importancia, mas enquanto a programção se dedica a uma paerte especifica a engenharia de software cuida de tudo com um total.
 
+
+-O que é engenharia de software?
+R: A engenharia de software cuida do projeto como um tudo desdo desenvolvimento até a gestão
+
 - O que é requisito?
 R: A necessidade do cliente
 
 - O que são requitos funcionais e não funcionais?
-R: Requisitos funcionais apresentam como o sistema será e quais funcionalidades ele terá para suprir as necessidades do cliente
-Requisitos não funcionais explicam as limitações e restrições do sistema a ser projetado
+R: Requisitos funcionais apresentam como o sistema será e quais funcionalidades ele terá para suprir as necessidades do cliente (funcionalidade, necessidade)
+
+- O que são requitos  não funcionais?
+R: Requisitos não funcionais explicam as limitações e restrições do sistema a ser projetado (desempenho, segurança)
+
+DESAFIO 
+
+Escreva dois exemplos de  requisitos não funcionais
+
+1- Quanto mais etapas de segurnaça menor será velocidade com que o usuario irá concluir  sua utilização no site
+
+2 - Quanto menor o tempo para entrega maior será a chance do software conter bugs
