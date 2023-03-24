@@ -34,3 +34,8 @@ Escreva dois exemplos de trade-off envolvendo equisitos não funcionais
 1- Quanto mais etapas de segurnaça menor será velocidade com que o usuario irá concluir  sua utilização no site
 
 2 - Quanto menor o tempo para entrega maior será a chance do software conter bugs
+
+![image](https://user-images.githubusercontent.com/111170146/227499073-05a3bc70-5f6a-4431-853f-c42285f90fd3.png)
+
+
+
