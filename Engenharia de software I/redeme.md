@@ -35,5 +35,16 @@ Escreva dois exemplos de trade-off envolvendo equisitos não funcionais
 
 2 - Quanto menor o tempo para entrega maior será a chance do software conter bugs
 
-![image](https://user-images.githubusercontent.com/111170146/227499073-05a3bc70-5f6a-4431-853f-c42285f90fd3.png)
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/afb1b514-b08e-42db-9649-8d35b6943fc9)
+
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/7948481d-442f-454b-93be-ed25c7d204bb)
+
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/850eb9f2-fc60-4912-802a-b9f09677233b)
+
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/4ae221ad-c2d0-477b-87fe-2658678501f4)
+
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/c60eabdc-4d4c-4bd6-962c-c5d4aad45d51)
+
+
+
 
