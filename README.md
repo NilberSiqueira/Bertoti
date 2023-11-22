@@ -17,7 +17,8 @@ Na figura abaixo, observamos o aplicativo São José Viva carregando opções, c
 
 O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, portanto utilizar palavras, frases, imagens e conceitos que sejam familiares ao usuário. Também é recomendável a utilização de ícones que representem uma ação para realizar essa correspondência.
 
-![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/53484039-220e-4959-b8e8-5fe0e4d994d7)
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/3a040199-dc71-4957-a129-97eebd5d5339)
+
 
 Por exemplo, o símbolo de uma lixeira representa a ação de excluir algo, o de lupa a de buscar, representando assim ações que tenham uma conexão com o mundo real.
 
@@ -26,7 +27,8 @@ Por exemplo, o símbolo de uma lixeira representa a ação de excluir algo, o de
 
 No sistema é importante que o usuário tenha liberdade para realizar ações que ele deseja, porém muitas vezes essas ações são realizadas por engano, nessas situações deve haver uma “saída de emergência” de fácil localização, permitindo que o usuário saia daquela janela indesejada ou retorne ao ponto anterior.
 
-![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/6818b79b-9efb-4b58-b09e-3cd5ad02ffdb)
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/154bad93-bdc9-490c-b5e1-9ebeeda16b64)
+
 
 O Gmail, por exemplo, permite que o usuário desfaça a ação de excluir um e-mail, portanto a caixa com a opção “desfazer” permite que o usuário se recupere, dando a ele controle sobre a situação, caso ela tenha sido realizada por engano.
 
@@ -60,7 +62,7 @@ Quando um usuário cria uma playlist de música, o aplicativo pode exibir uma se
 
 7 - Nesta sétima Heurística entendemos que vão existir usuários com diferentes níveis de conhecimento do sistema e em consequência usuários mais experientes, com isso é interessante que acrescentemos atalhos para estes usuários, melhorando assim sua afinidade com a aplicação/site e sua eficiência na execução de suas tarefas. Denominamos esses atalhos como "Aceleradores".
 
-![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/2663e949-15e7-43b5-8d7d-7dee2deed46e)
+![image](https://github.com/NilberSiqueira/Bertoti/assets/111170146/5fe527d5-4679-4ce2-a76a-f828c755fa0d)
 
 Aqui notamos um bom exemplo de atalho, ao pressionar o botão "Ctrl" e a letra "C" nós utilizamos um "Acelerador" para copiar todo texto digitado, e assim ter a possibilidade de altera-lo.
 
