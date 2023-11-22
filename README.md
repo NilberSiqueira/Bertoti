@@ -1,2 +1,2 @@
 # Bertoti
-Engenharia de software 
+Repositorio dedicado as materias do professora Giuliano Bertoti
